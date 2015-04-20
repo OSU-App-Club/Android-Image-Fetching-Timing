@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicTimer</string>
+
+    <!--Temporary title & text utilized in our notication to the user-->
+    <string name="temp_title">Alarm has gone off!</string>
+    <string name="temp_text">This is some temp text from strings.xml, go check it out!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="alarmText">Set Alarm!</string>
+</resources>
